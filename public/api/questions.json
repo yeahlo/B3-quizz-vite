@@ -1,0 +1,107 @@
+[
+  {
+    "label": "Quelle est la racine carrée de 36 ?",
+    "answers": [
+      {
+        "label": "6",
+        "valid": true
+      },
+      {
+        "label": "9",
+        "valid": false
+      },
+      {
+        "label": "12",
+        "valid": false
+      },
+      {
+        "label": "18",
+        "valid": false
+      }
+    ]
+  },
+  {
+    "label": "Quel département français a pour chef-lieu Bordeaux ?",
+    "answers": [
+      {
+        "label": "Landes ",
+        "valid": true
+      },
+      {
+        "label": "Mayenne",
+        "valid": false
+      },
+      {
+        "label": "Gironde",
+        "valid": true
+      },
+      {
+        "label": "Ardèche",
+        "valid": false
+      }
+    ]
+  },
+  {
+    "label": "Qu'est pour moi le père de mon père ?",
+    "answers": [
+      {
+        "label": "Mon oncle",
+        "valid": false
+      },
+      {
+        "label": "Mon frère",
+        "valid": false
+      },
+      {
+        "label": "Mon neveu",
+        "valid": false
+      },
+      {
+        "label": "Mon grand-père",
+        "valid": true
+      }
+    ]
+  },
+  {
+    "label": "Combien de voleurs accompagnaient Ali Baba ?",
+    "answers": [
+      {
+        "label": "12",
+        "valid": false
+      },
+      {
+        "label": "40",
+        "valid": true
+      },
+      {
+        "label": "10000",
+        "valid": false
+      },
+      {
+        "label": "20000",
+        "valid": false
+      }
+    ]
+  },
+  {
+    "label": "Lequel de ces nombres est un nombre premier",
+    "answers": [
+      {
+        "label": "13",
+        "valid": true
+      },
+      {
+        "label": "25",
+        "valid": false
+      },
+      {
+        "label": "32",
+        "valid": false
+      },
+      {
+        "label": "33",
+        "valid": false
+      }
+    ]
+  }
+]
